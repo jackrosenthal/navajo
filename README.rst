@@ -4,7 +4,7 @@ BashNET Navajo
 .. raw:: html
 
    <p align="center">
-     <img src="./bashnet.svg" width="300">
+     <img src="./bashnet.png" width="300">
    </p>
 
 Welcome to BashNET Navajo, a direct competitor to the Apache Web Server.
