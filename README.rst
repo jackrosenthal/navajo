@@ -1,9 +1,13 @@
 BashNET Navajo
 ==============
 
-    BashNET says... we're a Bash shop!
+.. raw:: html
 
-Welcome to BashNET Navajo, the direct competitor to Apache in web servers.
+   <p align="center">
+     <img src="./bashnet.svg" width="300">
+   </p>
+
+Welcome to BashNET Navajo, a direct competitor to the Apache Web Server.
 BashNET Navajo is a highly performant HTTP server written in Bash designed for
 enterprises needing reliable HTTP servers. Here is a summary of Navajo's
 extensive feature set:
@@ -18,4 +22,3 @@ Configuration
 
 View the environment variables in ``navajo.sh`` and override them in your
 environment as needed.
-
